@@ -1,5 +1,0 @@
-Physics: 120(lect) 30(lab) 30(pract)
-Math: 130(lect) 30(pract)
-Physical education: 40(pract)
-History: 70(lect)
-Biology: 40(lab) 30(lect)
