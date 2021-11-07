@@ -1,6 +1,0 @@
-Petrov 25000
-Sidorov 60000
-Nicolaev 19000
-Lebovsky 12000
-Dimitriev 15000
-Soskov 32000
